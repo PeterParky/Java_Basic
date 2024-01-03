@@ -1,1 +1,1 @@
-This is the space where i preserve my Math_resolution in Java
+This is the space I keep some Math_resolution in Java.
