@@ -1,7 +1,7 @@
 /*
  * Models flu spread across locations using historical data and growth rates, estimating total flu cases for a specified day
  */
-class Flu_rp614 {
+class FluSpreadEstimator {
     static final int INITIAL = 10;
 
     // Arrays to store flu history in different locations

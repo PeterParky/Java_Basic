@@ -2,7 +2,7 @@
  * Falling Simulation
  * simulates the motion of an object under gravity
  */
-class FallDouble {
+class Falling_Simulation {
      public static void main(String args[]) {
           // Declare variables to store position (x, y) and their respective speeds
           // (x_speed, y_speed)

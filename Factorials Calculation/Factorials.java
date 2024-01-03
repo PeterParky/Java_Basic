@@ -1,7 +1,7 @@
 /*
  * Factorials Calculation
  */
-class Rp5_022 {
+class Factorials {
     static long[] f = new long[30];
 
     // Recursive method to calculate factorials with memoization
