@@ -177,7 +177,7 @@ class Person {
 
 }
 
-class Ex7_3 {
+class Person_Generator {
 
     public static void main(String args[]) {
 
